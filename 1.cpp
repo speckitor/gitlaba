@@ -1,4 +1,4 @@
-#include <iostream>
+amogus
 using std::cin, std::cout;
 int main() {
     int a, b, c, d;
@@ -46,5 +46,4 @@ int main() {
         len = 2;
     }
     cout << len << '\n';
-    return 0;
 }
